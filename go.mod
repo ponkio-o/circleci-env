@@ -4,17 +4,17 @@ go 1.19
 
 require (
 	github.com/AlecAivazis/survey/v2 v2.3.5
+	github.com/adrg/xdg v0.4.0
 	github.com/alecthomas/kong v0.6.1
 	github.com/golang/mock v1.6.0
 	github.com/grezar/go-circleci v0.6.2
 	github.com/jarcoal/httpmock v1.2.0
 	github.com/sirupsen/logrus v1.9.0
 	github.com/spf13/viper v1.12.0
-	github.com/stretchr/testify v1.8.0
+	github.com/stretchr/testify v1.8.2
 )
 
 require (
-	github.com/adrg/xdg v0.4.0 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/fsnotify/fsnotify v1.5.4 // indirect
 	github.com/google/go-querystring v1.1.0 // indirect
